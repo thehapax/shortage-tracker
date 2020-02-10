@@ -1,6 +1,4 @@
 // leave this here in case you need bootstrap customizations 
-//@import "bootstrap-sprockets";
-@import "bootswatch/flatly/variables";
-@import "bootstrap/scss/bootstrap";
-@import "bootswatch/flatly/bootswatch";
 
+@import "~bootstrap/scss/bootstrap";
+@import "bootstrap.min.css"
